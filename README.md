@@ -7,5 +7,5 @@ File name starts starts Sim_
 
 
 
-The python file bins the data and is to be appropriate plots:
+The python file bins the data and is to be used for appropriate plots:
 e.g. Pink1_Defects_7_Bins.py Can be used when new experimental datapoints are there and for clustering to identify the possible defects
